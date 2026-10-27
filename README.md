@@ -2,7 +2,7 @@
 
 3D-printable Dutch wooden clogs (klompen) for the Booster K1 humanoid robot, made for the Humanoid Robot Fashion Challenge at Kent State University, October 2026.
 
-The repository has the final shoe (v10 "Smooth Toe"), an ornate variant with extra carving (v11 "Ornate"), the scripts that build them, and a MuJoCo model of the K1 wearing the clogs.
+The repository has the final shoe (v10 "Smooth Toe"), an ornate variant with extra carving (v11 "Ornate"), three vine versions including a light open-work pair ([vine/](vine/)), the scripts that build v10, and a MuJoCo model of the K1 wearing the clogs.
 
 ![Pair of clogs, v10](design/Pair_Preview.png)
 
@@ -39,6 +39,7 @@ Print files (100% scale, millimetres):
 
 - v10: [design/Print_Shoes/K1_Left_Klomp_One_Piece.stl](design/Print_Shoes/K1_Left_Klomp_One_Piece.stl), [design/Print_Shoes/K1_Right_Klomp_One_Piece.stl](design/Print_Shoes/K1_Right_Klomp_One_Piece.stl)
 - v11: [ornate-v11/Print_Shoes/](ornate-v11/Print_Shoes/)
+- vine versions: [vine/Print_Shoes/](vine/Print_Shoes/)
 
 Material: PETG. Settings for infill of 50% or less:
 
@@ -113,6 +114,7 @@ design/              v10 shoe: build.py, helpers, print STLs, previews, fit repo
   Print_Shoes/       left and right print STLs
   reference/         K1 foot meshes, rubber pad STEP files, foot registration
 ornate-v11/          v11 "Ornate": print STLs, previews, sim renders
+vine/                vine versions (open-work, relief, full): print STLs, renders
 sim/                 K1 with the clogs: MuJoCo XML, URDF, meshes, mjlab variant, renders, videos, scripts
 ```
 
