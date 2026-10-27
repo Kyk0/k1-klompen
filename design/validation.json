@@ -1,0 +1,669 @@
+{
+  "units": "mm",
+  "style": "closed-toe klomp with carved rosette",
+  "reference_photos": [
+    "reference/Latest_Clog_Reference.png",
+    "reference/reference_clogs.webp"
+  ],
+  "one_piece_per_shoe": true,
+  "upper_shell_wall_mm": 2.4,
+  "cavity_allowance_mm": 1,
+  "cavity_cut_offset_mm": 1.01,
+  "foot_envelope": {
+    "type": "union of convex hulls of x-slabs of both feet",
+    "x_cuts_mm": [
+      -4.0,
+      44.0,
+      86.0
+    ]
+  },
+  "throat_apex_x_mm": 94.0,
+  "decor_groove_mm": {
+    "width": 1.4,
+    "depth": 0.7
+  },
+  "donning": {
+    "method": "toe-first: heel raised about toe, slide along tilted sole",
+    "heel_tilt_deg": 8.0,
+    "pivot_mm": [
+      133.31417846679688,
+      0.0,
+      25.0
+    ],
+    "shin_kept_upright": true
+  },
+  "mount_holes": {
+    "diameter_mm": 5.5,
+    "underside_access_mm": 9.2,
+    "centers_xy_mm": [
+      [
+        -20.17905069962373,
+        -3.7089187276961866e-09
+      ],
+      [
+        -12.179050320432678,
+        11.500000019191383
+      ],
+      [
+        -12.179050318855557,
+        -11.500000025512094
+      ]
+    ]
+  },
+  "extra_side_holes": 0,
+  "pad_recess_depth_mm": 4,
+  "pad_glue_gap_mm": 0.2,
+  "pad_lateral_clearance_mm": 0.2,
+  "rubber_ground_z_mm": -4.7,
+  "existing_pad_scaling": 1.0,
+  "new_molds_generated": false,
+  "physical_fit_tested": false,
+  "feet": {
+    "Left": {
+      "watertight": true,
+      "single_solid": true,
+      "size_mm": [
+        228.98434448242188,
+        107.9985122680664,
+        67.0
+      ],
+      "volume_mm3": 295353.93998223956,
+      "static_foot_overlap_mm3": 0.0,
+      "upper_overlap_1mm_allowance_mm3": 0.0,
+      "toe_first_donning_overlap_mm3": {
+        "0": {
+          "foot_envelope": 0.0,
+          "pair_cross_hull": 0.0,
+          "leg_clip": 0.0
+        },
+        "1": {
+          "foot_envelope": 0.0,
+          "pair_cross_hull": 0.0,
+          "leg_clip": 0.0
+        },
+        "2": {
+          "foot_envelope": 0.0,
+          "pair_cross_hull": 0.0,
+          "leg_clip": 0.0
+        },
+        "3": {
+          "foot_envelope": 0.0,
+          "pair_cross_hull": 0.0,
+          "leg_clip": 0.0
+        },
+        "4": {
+          "foot_envelope": 0.0,
+          "pair_cross_hull": 0.0,
+          "leg_clip": 0.0
+        },
+        "5": {
+          "foot_envelope": 0.0,
+          "pair_cross_hull": 0.0,
+          "leg_clip": 0.0
+        },
+        "6": {
+          "foot_envelope": 0.0,
+          "pair_cross_hull": 0.0,
+          "leg_clip": 0.0
+        },
+        "7": {
+          "foot_envelope": 0.0,
+          "pair_cross_hull": 0.0,
+          "leg_clip": 0.0
+        },
+        "8": {
+          "foot_envelope": 0.0,
+          "pair_cross_hull": 0.0,
+          "leg_clip": 0.0
+        },
+        "9": {
+          "foot_envelope": 0.0,
+          "pair_cross_hull": 0.0,
+          "leg_clip": 0.0
+        },
+        "10": {
+          "foot_envelope": 0.0,
+          "pair_cross_hull": 0.0,
+          "leg_clip": 0.0
+        },
+        "11": {
+          "foot_envelope": 0.0,
+          "pair_cross_hull": 0.0,
+          "leg_clip": 0.0
+        },
+        "12": {
+          "foot_envelope": 0.0,
+          "pair_cross_hull": 0.0,
+          "leg_clip": 0.0
+        },
+        "13": {
+          "foot_envelope": 0.0,
+          "pair_cross_hull": 0.0,
+          "leg_clip": 0.0
+        },
+        "14": {
+          "foot_envelope": 0.0,
+          "pair_cross_hull": 0.0,
+          "leg_clip": 0.0
+        },
+        "15": {
+          "foot_envelope": 0.0,
+          "pair_cross_hull": 0.0,
+          "leg_clip": 0.0
+        },
+        "16": {
+          "foot_envelope": 0.0,
+          "pair_cross_hull": 0.0,
+          "leg_clip": 0.0
+        },
+        "17": {
+          "foot_envelope": 0.0,
+          "pair_cross_hull": 0.0,
+          "leg_clip": 0.0
+        },
+        "18": {
+          "foot_envelope": 0.0,
+          "pair_cross_hull": 0.0,
+          "leg_clip": 0.0
+        },
+        "19": {
+          "foot_envelope": 0.0,
+          "pair_cross_hull": 0.0,
+          "leg_clip": 0.0
+        },
+        "20": {
+          "foot_envelope": 0.0,
+          "pair_cross_hull": 0.0,
+          "leg_clip": 0.0
+        },
+        "21": {
+          "foot_envelope": 0.0,
+          "pair_cross_hull": 0.0,
+          "leg_clip": 0.0
+        },
+        "22": {
+          "foot_envelope": 0.0,
+          "pair_cross_hull": 0.0,
+          "leg_clip": 0.0
+        },
+        "23": {
+          "foot_envelope": 0.0,
+          "pair_cross_hull": 0.0,
+          "leg_clip": 0.0
+        },
+        "24": {
+          "foot_envelope": 0.0,
+          "pair_cross_hull": 0.0,
+          "leg_clip": 0.0
+        },
+        "25": {
+          "foot_envelope": 0.0,
+          "pair_cross_hull": 0.0,
+          "leg_clip": 0.0
+        },
+        "26": {
+          "foot_envelope": 0.0,
+          "pair_cross_hull": 0.0,
+          "leg_clip": 0.0
+        },
+        "27": {
+          "foot_envelope": 0.0,
+          "pair_cross_hull": 0.0,
+          "leg_clip": 0.0
+        },
+        "28": {
+          "foot_envelope": 0.0,
+          "pair_cross_hull": 0.0,
+          "leg_clip": 0.0
+        },
+        "29": {
+          "foot_envelope": 0.0,
+          "pair_cross_hull": 0.0,
+          "leg_clip": 0.0
+        },
+        "30": {
+          "foot_envelope": 0.0,
+          "pair_cross_hull": 0.0,
+          "leg_clip": 0.0
+        },
+        "31": {
+          "foot_envelope": 0.0,
+          "pair_cross_hull": 0.0,
+          "leg_clip": 0.0
+        },
+        "32": {
+          "foot_envelope": 0.0,
+          "pair_cross_hull": 0.0,
+          "leg_clip": 0.0
+        },
+        "33": {
+          "foot_envelope": 0.0,
+          "pair_cross_hull": 0.0,
+          "leg_clip": 0.0
+        },
+        "34": {
+          "foot_envelope": 0.0,
+          "pair_cross_hull": 0.0,
+          "leg_clip": 0.0
+        },
+        "35": {
+          "foot_envelope": 0.0,
+          "pair_cross_hull": 0.0,
+          "leg_clip": 0.0
+        },
+        "36": {
+          "foot_envelope": 0.0,
+          "pair_cross_hull": 0.0,
+          "leg_clip": 0.0
+        },
+        "37": {
+          "foot_envelope": 0.0,
+          "pair_cross_hull": 0.0,
+          "leg_clip": 0.0
+        },
+        "38": {
+          "foot_envelope": 0.0,
+          "pair_cross_hull": 0.0,
+          "leg_clip": 0.0
+        },
+        "39": {
+          "foot_envelope": 0.0,
+          "pair_cross_hull": 0.0,
+          "leg_clip": 0.0
+        }
+      },
+      "sampled_ankle_overlap_mm3": {
+        "-0.87,-0.345": 0.0,
+        "-0.87,-0.17": 0.0,
+        "-0.87,0": 0.0,
+        "-0.87,0.17": 0.0,
+        "-0.87,0.345": 0.0,
+        "-0.65,-0.345": 0.0,
+        "-0.65,-0.17": 0.0,
+        "-0.65,0": 0.0,
+        "-0.65,0.17": 0.0,
+        "-0.65,0.345": 0.0,
+        "-0.435,-0.345": 0.0,
+        "-0.435,-0.17": 0.0,
+        "-0.435,0": 0.0,
+        "-0.435,0.17": 0.0,
+        "-0.435,0.345": 0.0,
+        "-0.2,-0.345": 0.0,
+        "-0.2,-0.17": 0.0,
+        "-0.2,0": 0.0,
+        "-0.2,0.17": 0.0,
+        "-0.2,0.345": 0.0,
+        "0,-0.345": 0.0,
+        "0,-0.17": 0.0,
+        "0,0": 0.0,
+        "0,0.17": 0.0,
+        "0,0.345": 0.0,
+        "0.17,-0.345": 0.0,
+        "0.17,-0.17": 0.0,
+        "0.17,0": 0.0,
+        "0.17,0.17": 0.0,
+        "0.17,0.345": 0.0,
+        "0.345,-0.345": 0.0,
+        "0.345,-0.17": 0.0,
+        "0.345,0": 0.0,
+        "0.345,0.17": 0.0,
+        "0.345,0.345": 0.0
+      },
+      "existing_pads": {
+        "Front": {
+          "source": "Front_Rubber_Insert.step",
+          "source_sha256": "b1b15a8413127d911116a4236790427bcc748352f9011f32ce8e3f163836ac66",
+          "scale": 1.0,
+          "translation_mm": [
+            80.00000000000006,
+            -39.057470798657,
+            -4.700000200000001
+          ],
+          "size_mm": [
+            49.787391069038065,
+            80.11494159731402,
+            8.500000200001928
+          ],
+          "minimum_ground_border_mm": 5.012609030961927,
+          "shoe_overlap_mm3": 0.0,
+          "pad_placement_overlap_mm3": {
+            "0": 0.0,
+            "-0.5": 0.0,
+            "-2": 0.0,
+            "-4": 0.0,
+            "-8": 0.0
+          }
+        },
+        "Heel": {
+          "source": "Heel_Rubber_Insert.step",
+          "source_sha256": "416b2898910a904cf0f57193c26fb68e219934bf07663fd9c82f69e6f936824c",
+          "scale": 1.0,
+          "translation_mm": [
+            -48.0,
+            -25.4983871007645,
+            -4.700000200000001
+          ],
+          "size_mm": [
+            41.72585934098829,
+            52.99677420152901,
+            8.500000200001516
+          ],
+          "minimum_ground_border_mm": 5.370020166149278,
+          "shoe_overlap_mm3": 0.0,
+          "pad_placement_overlap_mm3": {
+            "0": 0.0,
+            "-0.5": 0.0,
+            "-2": 0.0,
+            "-4": 0.0,
+            "-8": 0.0
+          }
+        }
+      }
+    },
+    "Right": {
+      "watertight": true,
+      "single_solid": true,
+      "size_mm": [
+        228.98434448242188,
+        107.9985122680664,
+        67.0
+      ],
+      "volume_mm3": 295353.93984278926,
+      "static_foot_overlap_mm3": 0.0,
+      "upper_overlap_1mm_allowance_mm3": 0.0,
+      "toe_first_donning_overlap_mm3": {
+        "0": {
+          "foot_envelope": 0.0,
+          "pair_cross_hull": 0.0,
+          "leg_clip": 0.0
+        },
+        "1": {
+          "foot_envelope": 0.0,
+          "pair_cross_hull": 0.0,
+          "leg_clip": 0.0
+        },
+        "2": {
+          "foot_envelope": 0.0,
+          "pair_cross_hull": 0.0,
+          "leg_clip": 0.0
+        },
+        "3": {
+          "foot_envelope": 0.0,
+          "pair_cross_hull": 0.0,
+          "leg_clip": 0.0
+        },
+        "4": {
+          "foot_envelope": 0.0,
+          "pair_cross_hull": 0.0,
+          "leg_clip": 0.0
+        },
+        "5": {
+          "foot_envelope": 0.0,
+          "pair_cross_hull": 0.0,
+          "leg_clip": 0.0
+        },
+        "6": {
+          "foot_envelope": 0.0,
+          "pair_cross_hull": 0.0,
+          "leg_clip": 0.0
+        },
+        "7": {
+          "foot_envelope": 0.0,
+          "pair_cross_hull": 0.0,
+          "leg_clip": 0.0
+        },
+        "8": {
+          "foot_envelope": 0.0,
+          "pair_cross_hull": 0.0,
+          "leg_clip": 0.0
+        },
+        "9": {
+          "foot_envelope": 0.0,
+          "pair_cross_hull": 0.0,
+          "leg_clip": 0.0
+        },
+        "10": {
+          "foot_envelope": 0.0,
+          "pair_cross_hull": 0.0,
+          "leg_clip": 0.0
+        },
+        "11": {
+          "foot_envelope": 0.0,
+          "pair_cross_hull": 0.0,
+          "leg_clip": 0.0
+        },
+        "12": {
+          "foot_envelope": 0.0,
+          "pair_cross_hull": 0.0,
+          "leg_clip": 0.0
+        },
+        "13": {
+          "foot_envelope": 0.0,
+          "pair_cross_hull": 0.0,
+          "leg_clip": 0.0
+        },
+        "14": {
+          "foot_envelope": 0.0,
+          "pair_cross_hull": 0.0,
+          "leg_clip": 0.0
+        },
+        "15": {
+          "foot_envelope": 0.0,
+          "pair_cross_hull": 0.0,
+          "leg_clip": 0.0
+        },
+        "16": {
+          "foot_envelope": 0.0,
+          "pair_cross_hull": 0.0,
+          "leg_clip": 0.0
+        },
+        "17": {
+          "foot_envelope": 0.0,
+          "pair_cross_hull": 0.0,
+          "leg_clip": 0.0
+        },
+        "18": {
+          "foot_envelope": 0.0,
+          "pair_cross_hull": 0.0,
+          "leg_clip": 0.0
+        },
+        "19": {
+          "foot_envelope": 0.0,
+          "pair_cross_hull": 0.0,
+          "leg_clip": 0.0
+        },
+        "20": {
+          "foot_envelope": 0.0,
+          "pair_cross_hull": 0.0,
+          "leg_clip": 0.0
+        },
+        "21": {
+          "foot_envelope": 0.0,
+          "pair_cross_hull": 0.0,
+          "leg_clip": 0.0
+        },
+        "22": {
+          "foot_envelope": 0.0,
+          "pair_cross_hull": 0.0,
+          "leg_clip": 0.0
+        },
+        "23": {
+          "foot_envelope": 0.0,
+          "pair_cross_hull": 0.0,
+          "leg_clip": 0.0
+        },
+        "24": {
+          "foot_envelope": 0.0,
+          "pair_cross_hull": 0.0,
+          "leg_clip": 0.0
+        },
+        "25": {
+          "foot_envelope": 0.0,
+          "pair_cross_hull": 0.0,
+          "leg_clip": 0.0
+        },
+        "26": {
+          "foot_envelope": 0.0,
+          "pair_cross_hull": 0.0,
+          "leg_clip": 0.0
+        },
+        "27": {
+          "foot_envelope": 0.0,
+          "pair_cross_hull": 0.0,
+          "leg_clip": 0.0
+        },
+        "28": {
+          "foot_envelope": 0.0,
+          "pair_cross_hull": 0.0,
+          "leg_clip": 0.0
+        },
+        "29": {
+          "foot_envelope": 0.0,
+          "pair_cross_hull": 0.0,
+          "leg_clip": 0.0
+        },
+        "30": {
+          "foot_envelope": 0.0,
+          "pair_cross_hull": 0.0,
+          "leg_clip": 0.0
+        },
+        "31": {
+          "foot_envelope": 0.0,
+          "pair_cross_hull": 0.0,
+          "leg_clip": 0.0
+        },
+        "32": {
+          "foot_envelope": 0.0,
+          "pair_cross_hull": 0.0,
+          "leg_clip": 0.0
+        },
+        "33": {
+          "foot_envelope": 0.0,
+          "pair_cross_hull": 0.0,
+          "leg_clip": 0.0
+        },
+        "34": {
+          "foot_envelope": 0.0,
+          "pair_cross_hull": 0.0,
+          "leg_clip": 0.0
+        },
+        "35": {
+          "foot_envelope": 0.0,
+          "pair_cross_hull": 0.0,
+          "leg_clip": 0.0
+        },
+        "36": {
+          "foot_envelope": 0.0,
+          "pair_cross_hull": 0.0,
+          "leg_clip": 0.0
+        },
+        "37": {
+          "foot_envelope": 0.0,
+          "pair_cross_hull": 0.0,
+          "leg_clip": 0.0
+        },
+        "38": {
+          "foot_envelope": 0.0,
+          "pair_cross_hull": 0.0,
+          "leg_clip": 0.0
+        },
+        "39": {
+          "foot_envelope": 0.0,
+          "pair_cross_hull": 0.0,
+          "leg_clip": 0.0
+        }
+      },
+      "sampled_ankle_overlap_mm3": {
+        "-0.87,-0.345": 0.0,
+        "-0.87,-0.17": 0.0,
+        "-0.87,0": 0.0,
+        "-0.87,0.17": 0.0,
+        "-0.87,0.345": 0.0,
+        "-0.65,-0.345": 0.0,
+        "-0.65,-0.17": 0.0,
+        "-0.65,0": 0.0,
+        "-0.65,0.17": 0.0,
+        "-0.65,0.345": 0.0,
+        "-0.435,-0.345": 0.0,
+        "-0.435,-0.17": 0.0,
+        "-0.435,0": 0.0,
+        "-0.435,0.17": 0.0,
+        "-0.435,0.345": 0.0,
+        "-0.2,-0.345": 0.0,
+        "-0.2,-0.17": 0.0,
+        "-0.2,0": 0.0,
+        "-0.2,0.17": 0.0,
+        "-0.2,0.345": 0.0,
+        "0,-0.345": 0.0,
+        "0,-0.17": 0.0,
+        "0,0": 0.0,
+        "0,0.17": 0.0,
+        "0,0.345": 0.0,
+        "0.17,-0.345": 0.0,
+        "0.17,-0.17": 0.0,
+        "0.17,0": 0.0,
+        "0.17,0.17": 0.0,
+        "0.17,0.345": 0.0,
+        "0.345,-0.345": 0.0,
+        "0.345,-0.17": 0.0,
+        "0.345,0": 0.0,
+        "0.345,0.17": 0.0,
+        "0.345,0.345": 0.0
+      },
+      "existing_pads": {
+        "Front": {
+          "source": "Front_Rubber_Insert_Right.step",
+          "source_sha256": "96eb191c8d80ab54e8e87687e02b9810d5b30fda80579321880b84a198ee8938",
+          "scale": 1.0,
+          "translation_mm": [
+            80.00000000000009,
+            -41.057470798657,
+            -4.700000200000001
+          ],
+          "size_mm": [
+            49.787391069038094,
+            80.11494159731402,
+            8.500000200001928
+          ],
+          "minimum_ground_border_mm": 5.012609030961897,
+          "shoe_overlap_mm3": 0.0,
+          "pad_placement_overlap_mm3": {
+            "0": 0.0,
+            "-0.5": 0.0,
+            "-2": 0.0,
+            "-4": 0.0,
+            "-8": 0.0
+          }
+        },
+        "Heel": {
+          "source": "Heel_Rubber_Insert.step",
+          "source_sha256": "416b2898910a904cf0f57193c26fb68e219934bf07663fd9c82f69e6f936824c",
+          "scale": 1.0,
+          "translation_mm": [
+            -48.0,
+            -27.4983871007645,
+            -4.700000200000001
+          ],
+          "size_mm": [
+            41.72585934098829,
+            52.99677420152901,
+            8.500000200001516
+          ],
+          "minimum_ground_border_mm": 5.370020166149278,
+          "shoe_overlap_mm3": 0.0,
+          "pad_placement_overlap_mm3": {
+            "0": 0.0,
+            "-0.5": 0.0,
+            "-2": 0.0,
+            "-4": 0.0,
+            "-8": 0.0
+          }
+        }
+      }
+    }
+  },
+  "sha256": {
+    "K1_Right_Klomp_One_Piece.stl": "e13fbe6d20cc9243931c28f65918396dd722fec7bc1263a3ed865b6f78b34060",
+    "K1_Left_Klomp_One_Piece.stl": "fe8efe4b037751273138631576a2a33da5d69f04ce66e79cf0b57a1388ee7f8b"
+  }
+}

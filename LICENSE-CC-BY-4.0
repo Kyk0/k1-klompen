@@ -1,0 +1,17 @@
+Design license
+
+Copyright (c) 2026 Kyrylo Kolesnichenko
+
+The clog designs in this repository (the shoe STL and STEP files, the clog meshes in
+sim/meshes/*Klomp*.STL), the preview images, renders and videos are licensed under the
+Creative Commons Attribution 4.0 International License (CC BY 4.0).
+
+You may share and adapt them for any purpose, including commercially, as long as you
+give appropriate credit, provide a link to the license, and indicate if changes were made.
+
+Full license text: https://creativecommons.org/licenses/by/4.0/legalcode
+
+The scripts (*.py) are licensed separately under the MIT License (see LICENSE).
+The Booster K1 robot meshes and models are owned by Booster Robotics and are under
+their own license (design/reference/Booster_Assets_LICENSE).
+The reference photos of real clogs in design/reference/ are not covered by this license.

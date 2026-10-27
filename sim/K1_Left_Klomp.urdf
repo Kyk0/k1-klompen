@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<!-- K1 klomp (left). Frame = K1 left_ankle_roll_link, metres. -->
+<robot name="K1_Left_Klomp">
+  <link name="left_klomp_link">
+    <inertial>
+      <origin xyz="0.043140 0.001042 -0.040256" rpy="0 0 0" />
+      <mass value="0.3500" />
+      <inertia ixx="3.4426e-04" ixy="-5.3495e-07" ixz="-4.9097e-05" iyy="1.3650e-03" iyz="2.0051e-07" izz="1.5992e-03" />
+    </inertial>
+    <visual>
+      <geometry><mesh filename="meshes/Left_Klomp.STL" /></geometry>
+      <material name="klomp_wood"><color rgba="0.80 0.62 0.33 1" /></material>
+    </visual>
+    <collision>
+      <geometry><mesh filename="meshes/Left_Klomp_Collision.STL" /></geometry>
+    </collision>
+  </link>
+</robot>
